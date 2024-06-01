@@ -3,7 +3,7 @@ I am from Cyprus, Rafail Andreou, born in 2002. Currently, I am pursuing my pass
 
 ## About Me
 
-Ever since I was a teen, I've been captivated by the world of computers. It didn't take long for me to realize that I wanted to dive deep into the realm of computer science. At the age of 14, I took my first steps into programming, starting with the fundamentals, primarily focusing on Python with a sprinkle of HTML, CSS, and JavaScript. As I honed my skills, I ventured into the realm of C++, fascinated by its power and versatility.
+Ever since I was a teen, I've been captivated by the world of computers. It didn't take long for me to realize that I wanted to dive deep into the realm of computer science. At the age of 14, I took my first steps into programming, starting with the fundamentals, primarily focusing on Python, HTML(NOT A PROGRAMMING LANGUAGE BTW),CSS(NEITHER CSS), and JavaScript. As I honed my skills, I ventured into the realm of C++, fascinated by its power and versatility.
 
 ## Exploring Cybersecurity
 

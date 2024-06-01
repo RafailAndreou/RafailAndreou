@@ -11,7 +11,7 @@ While initially intrigued by the intricacies of cybersecurity, a brief foray int
 
 ## GitHub: My Digital Archive
 
-Unfortunately, most of the projects I worked on were lost to time. However, thanks to the wonders of GitHub, I've been able to preserve some of my early endeavors and track my growth as a programmer.
+Unfortunately, most of the projects I worked on were lost to time. However, thanks to the wonders of GitHub, I've been able to preserve some of my early endeavors and track my growth as a programmer. Many of these lost projects were useful automation tools for games, reflecting my passion for creating software and my enjoyment in the process of building personal useful tools.
 
 ## Current Endeavors
 

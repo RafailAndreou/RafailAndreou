@@ -1,6 +1,6 @@
 # Welcome to Rafail Andreou's GitHub Profile!
 
-Hey there! I'm Rafail Andreou, born in 2002 and currently pursuing my passion for computer science at the University Of Thessaly. Let me tell you a bit about my journey so far.
+I am from Cyprus, Rafail Andreou, born in 2002. Currently, I am pursuing my passion for computer science at the University of Thessaly.
 
 ## About Me
 

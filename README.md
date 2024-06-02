@@ -22,3 +22,7 @@ Nowadays, you'll find me immersed in university life, delving deeper into the wo
 Throughout my university experience, I've had the opportunity to explore a wide range of topics, including machine learning, data science, signals and systems, databases, computer systems, and many more. Each new subject has provided me with valuable insights and enriched my understanding of computer science.
 
 Feel free to explore my repositories and follow along with my journey as I continue to learn, grow, and create!
+
+## My Goal
+
+My goal right now is to develop a robust alternative to FlutterFlow, designed to run locally for enhanced performance and privacy. This application will empower developers to create sophisticated, cross-platform mobile applications with ease, leveraging a user-friendly drag-and-drop interface. By open-sourcing this tool, I aim to foster a collaborative community where developers can contribute to and benefit from the platform, promoting innovation and shared learning in the app development space. Unfortunately at the moment my time is limited but when I find free time I will try to bring this idea to life. I am also open for collaborations.

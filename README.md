@@ -19,7 +19,7 @@ Nowadays, you'll find me immersed in university life, delving deeper into the wo
 
 ## Learning Journey
 
-Throughout my university experience, I've had the opportunity to explore a wide range of topics, including machine learning, data science, signals and systems, databases, computer systems, and many more. Each new subject has provided me with valuable insights and enriched my understanding of computer science.
+Throughout my university experience, I've had the opportunity to explore a wide range of topics, including machine learning, VLSI design, data science, signals and systems, databases, computer systems, and many more. Each new course has provided me with valuable insights and enriched my understanding of computer science.
 
 Feel free to explore my repositories and follow along with my journey as I continue to learn, grow, and create!
 

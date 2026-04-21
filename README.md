@@ -25,4 +25,4 @@ Feel free to explore my repositories and follow along with my journey as I conti
 
 ## My Goal
 
-My goal right now is to develop a robust alternative to FlutterFlow, designed to run locally for enhanced performance and privacy. This application will empower developers to create sophisticated, cross-platform mobile applications with ease, leveraging a user-friendly drag-and-drop interface. By open-sourcing this tool, I aim to foster a collaborative community where developers can contribute to and benefit from the platform, promoting innovation and shared learning in the app development space. Unfortunately at the moment my time is limited but when I find free time I will try to bring this idea to life. I am also open for collaborations.
+My goal right now is developing touchless interaction systems using Python and Flutter.(Currently working on this)
